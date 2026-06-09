@@ -1,0 +1,7 @@
+[user]
+	email = alan.guzek@swmansion.com
+	name = Alan Guzek
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
