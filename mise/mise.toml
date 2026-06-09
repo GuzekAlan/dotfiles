@@ -1,3 +1,0 @@
-[env]
-MISE_RUSTUP_HOME="~/.rustup"
-MISE_CARGO_HOME="~/.cargo"
