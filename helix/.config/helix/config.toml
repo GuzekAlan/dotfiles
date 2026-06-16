@@ -2,7 +2,6 @@
 
 [editor]
 mouse = false
-default-yank-register = "+" # Yank to system clipboard
 
 [editor.statusline]
 left = ["mode", "spinner", "register"]
